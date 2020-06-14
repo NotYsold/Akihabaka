@@ -1,0 +1,22 @@
+footer {
+
+  background-color: rgba(64, 64, 122,1.0);
+  width: calc(100% - 40px);
+  color: white;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  bottom: 0;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+
+}
+
+footer a{
+	color: rgba(230, 230, 230);
+}
